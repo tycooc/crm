@@ -1,4 +1,4 @@
 
 客户关系管理系统
 
-[crm](/index.jsp)
+[crm](https://tycooc.github.io/crm/web/index.jsp)
